@@ -1,0 +1,12 @@
+Nicholas Stewart
+cs288
+hw7 note
+
+A Star and BFS are very fast. A Star is clearly the better algorithm in terms of time and space as the possible number of paths increases.
+
+I ran a test on dfs with a more comlex puzzle. It ran for about 2 hours without solving it. It is clearly the worst algorithm for this problem. It solves smaller puzzles
+but with larger more complex puzzles it takes a LONG time to complete. This is not surprising to me. DFS must generate, compare and search on average 1/2 of all possible puzzles.
+
+This program also works with BB and Best search even though it isn't shown in the pictures.
+
+If there are any issues please let me know.
